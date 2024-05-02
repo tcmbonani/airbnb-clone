@@ -1,0 +1,43 @@
+GET http://localhost:8000/users
+####
+  http://localhost:8000/listings
+######
+ http://localhost:8000/bookings
+######
+######
+
+
+   GET http://localhost:8000/users HTTP/1.1 
+
+
+##GET ALL BOOKING FOR A USER
+
+http://localhost:8000/users/2/bookings
+
+
+
+
+
+#######
+
+POST http://localhost:8001/auth/login
+Content-Type: application/json
+
+{
+    "email": "testman@mail.com",
+    "password": "12458965"
+}
+
+
+#####
+
+# GET ALL BOOKINGS FOR A USER
+http://localhost:8000/bookings
+#####
+##POST  http://localhost:5000/posts 
+#content-type: application/json
+
+ #   {
+        "title": "airbnb-clone",
+        "author": "Tshepiso"
+ #   }
