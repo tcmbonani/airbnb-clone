@@ -1,1 +1,70 @@
-{"users":[{"id":"36221","email":"test@mail.com","password":"pasjdhdhhio1"},{"id":"362211","email":"test@mail.com","password":"pasjdhdhhio1"},{"id":"3622111","email":"Shaanan@mellisa.tv","password":"jdAIDHQAKDA"},{"id":"36221111","email":"testman@mail.com","password":"12458965"}],"bookings":[{"listingId":1,"startDate":"2024-04-29","endDate":"2024-04-30","userId":"1"}],"listings":[{"id":"1","img":"https://a0.muscache.com/im/pictures/bd754bc8-3dfc-4b04-a805-83d991ccba8d.jpg?im_w=720","title":"The house in the middle","description":"Everyone who cam jet off and fly can definately reach here","bath_num":3,"bed_num":4,"zip":23456,"address":"Shomolu Street","city":"Ikeja","street":"Agege","price":"$179.88/night","sq_ft":4.2,"email":"test@test.com","userId":"1"},{"id":"2","img":"https://a0.muscache.com/im/pictures/d1061623-322c-439e-9fb2-878b0331ab9c.jpg?im_w=720","title":"The lions dean ","description":"Come and explore the Lions power in the jungle","bath_num":3,"bed_num":4,"zip":23456,"address":"Shomolu Street","city":"Ikeja","street":"Agege","price":"$452.00/night","sq_ft":4.2,"email":"test@test.com","userId":"2"},{"id":"3","img":"https://a0.muscache.com/im/pictures/miso/Hosting-755496015657627431/original/c82823cf-33f3-4261-8193-54ae7966983e.jpeg?im_w=720","title":"Online Experiences","description":"Unique activities we can do together.","bath_num":3,"bed_num":4,"zip":23456,"address":"Shomolu Street","city":"Ikeja","street":"Agege","price":"$250.98/night","sq_ft":4.2,"email":"test@test.com","userId":"3"}]}
+{
+  "users": [
+    { "id": "36221", "email": "test@mail.com", "password": "pasjdhdhhio1" },
+    { "id": "362211", "email": "test@mail.com", "password": "pasjdhdhhio1" },
+    {
+      "id": "3622111",
+      "email": "Shaanan@mellisa.tv",
+      "password": "jdAIDHQAKDA"
+    },
+    { "id": "36221111", "email": "testman@mail.com", "password": "12458965" }
+  ],
+  "bookings": [
+    {
+      "listingId": 1,
+      "startDate": "2024-04-29",
+      "endDate": "2024-04-30",
+      "userId": "1"
+    }
+  ],
+  "listings": [
+    {
+      "id": "1",
+      "img": "https://a0.muscache.com/im/pictures/bd754bc8-3dfc-4b04-a805-83d991ccba8d.jpg?im_w=720",
+      "title": "The house in the middle",
+      "description": "Everyone who cam jet off and fly can definately reach here",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 23456,
+      "address": "Shomolu Street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": "$179.88/night",
+      "sq_ft": 4.2,
+      "email": "test@test.com",
+      "userId": "1"
+    },
+    {
+      "id": "2",
+      "img": "https://a0.muscache.com/im/pictures/d1061623-322c-439e-9fb2-878b0331ab9c.jpg?im_w=720",
+      "title": "The lions dean ",
+      "description": "Come and explore the Lions power in the jungle",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 23456,
+      "address": "Shomolu Street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": "$452.00/night",
+      "sq_ft": 4.2,
+      "email": "test@test.com",
+      "userId": "2"
+    },
+    {
+      "id": "3",
+      "img": "https://a0.muscache.com/im/pictures/miso/Hosting-755496015657627431/original/c82823cf-33f3-4261-8193-54ae7966983e.jpeg?im_w=720",
+      "title": "Online Experiences",
+      "description": "Unique activities we can do together.",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 23456,
+      "address": "Shomolu Street",
+      "city": "Ikeja",
+      "street": "Agege",
+      "price": "$250.98/night",
+      "sq_ft": 4.2,
+      "email": "test@test.com",
+      "userId": "3"
+    }
+  ]
+}

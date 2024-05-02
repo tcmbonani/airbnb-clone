@@ -6,8 +6,10 @@
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run start-auth\"",
     "start-auth": "node server.js",
-    "server": "json-server --watch db.json -p 8000"
-  },
+    "server": "json-server --watch db.json -p 8000",
+    "custom-script": "node npm_dependency_fix.js",
+    "update-and-fix": "npm run custom-script && npm audit fix --force"
+},
   "author": "ME:)",
   "license": "ISC",
   "dependencies": {
